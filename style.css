@@ -25,7 +25,7 @@ body
 
 .footer-social-links a:hover
 {
-    color: #fff;
+    color: red;
 }
 
 .footer-social-links a:hover:before
@@ -38,5 +38,4 @@ body
     position: relative;
     top: 2px;
     left: 1px;
-
 }
